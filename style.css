@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.Card {
+
+    width: 350px;
+    height: 275px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    background-color: #f0f0f0;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    
+   
+}
+
+.img {
+    height: 200px;
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+  
+    
+   
+}
+
+h1 {
+    position: absolute;
+    top:0;
+    left:70px;
+    color: yellow
+}
+
+.main{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    background-color: yellow;
+    /* align-items: center; */
+    bottom: 125px;
+    left: 45px;
+
+}
+
+h3{
+    text-align: center;
+    padding-top: 5px;
+    font-size: medium;
+}
+
+.mainHD{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    background-color: yellow;
+        bottom: 125px;
+        left:150px;
+}
+
+.mainHD3{
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    background-color: yellow;
+        bottom: 125px;
+        right:50px;
+}
+
+.nov{
+    position: absolute;
+    bottom: 5px;
+    right: 8px;
+}
+
+.dec{
+   
+    position: absolute;
+    bottom: 130px;
+    right:57px;
+}
+
+.footer{
+    position: absolute;
+    color: yellow;
+    bottom: 85px;
+    right: 45px;
+    font-size: large;
+}
+
+.img2 {
+    width: 40px;
+    clip-path: circle();
+    margin-left: 10px ;
+    float: left;
+}
+.span{
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 45px;
+}
